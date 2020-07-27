@@ -1,0 +1,21 @@
+Macarie Razvan Cristian, 322CB
+
+Nu am putut sa termin tema mai devreme pentru ca am avut de terminat teme din anul
+curent. Nu am vazut daca are doar deadline hard asa ca sper ca nu am muncit degeaba.
+
+Citire
+	Pentru citire am folosit dlmread ca sa citest tot fisierul text intr-o matrice.
+Cu matricea citita am construit matricea de adiacenta si matricea diagonala.
+
+Iterative si Algebraic
+	Pentru acesti algortmi m-am folosit de algoritmi de la curs pentru Grahm-Schmidth 
+si de Wikipedia pentru algoritmii de PageRank.
+
+Apartenenta
+	Pentru acest punct am transcris functia din enunt in cod. Am sortat cu flagul
+"descend" matricea si cautand pe net am aflat ca [s i] = sort(A) intoarce in i
+indecsii initiali pe care se aflau valorile.
+
+Am modificat antete de functii pentru ca nu imi place sa folosesc variabile x,y
+decat unde nu am nevoie de nume sugestive si am folosit "numarNoduri" etc. pentru
+variabile.
